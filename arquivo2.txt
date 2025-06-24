@@ -1,1 +1,2 @@
 Outra coisa arquivo2
+Edição feita no repositório remoto
